@@ -1,2 +1,9 @@
-package bean;public class EType {
+package bean;
+
+public enum EType {
+
+    APPETIZER,
+    MAIN,
+    DESSERT
+
 }
